@@ -1,0 +1,363 @@
+{
+  "type": "folder",
+  "name": "cengage-maths",
+  "children": [
+    {
+      "type": "file",
+      "name": ".gitattributes",
+      "path": ".gitattributes",
+      "sha": "b634d85f0161af823e093eaf9605f06fbf84cd36",
+      "mime": "application/octet-stream"
+    },
+    {
+      "type": "folder",
+      "name": ".github",
+      "children": [
+        {
+          "type": "folder",
+          "name": "workflows",
+          "children": [
+            {
+              "type": "file",
+              "name": "fmupdate.yaml",
+              "path": ".github/workflows/fmupdate.yaml",
+              "sha": "e8487ad3894e481645579c350a1ae003fb5e22c7",
+              "mime": "application/yaml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "fmtree.py",
+      "path": "fmtree.py",
+      "sha": "4d9c5269d78d298ba59997f5b39467ee3819d438",
+      "mime": "text/x-python"
+    },
+    {
+      "type": "folder",
+      "name": "M1. Trigonometry",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. Logarithm and Its Properties.pdf",
+          "path": "M1. Trigonometry/1. Logarithm and Its Properties.pdf",
+          "sha": "a4a9295c450da3307885aaff5cc845e34349ed51",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Trigonometric Functions.pdf",
+          "path": "M1. Trigonometry/2. Trigonometric Functions.pdf",
+          "sha": "17dd023301ad296991ca6b9930250e24835a1ca3",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Trigonometric Ratios and Transformation Formulas.pdf",
+          "path": "M1. Trigonometry/3. Trigonometric Ratios and Transformation Formulas.pdf",
+          "sha": "0f714bb0c25b00441201d8e4b6f164544abb0561",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Trigonometric Equations.pdf",
+          "path": "M1. Trigonometry/4. Trigonometric Equations.pdf",
+          "sha": "c5861c006099c7f8ca730cac7576a0cacf8658f9",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. Properties and Solutions of Triangle.pdf",
+          "path": "M1. Trigonometry/5. Properties and Solutions of Triangle.pdf",
+          "sha": "bd138efcdc166e61528e7003483e896de05c177b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. Height and Distance.pdf",
+          "path": "M1. Trigonometry/6. Height and Distance.pdf",
+          "sha": "12dcd5fbeeb0db354b5f02d0d7f79f5fd7f5c1bb",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Inverse Trigonometric Functions.pdf",
+          "path": "M1. Trigonometry/7. Inverse Trigonometric Functions.pdf",
+          "sha": "c9d5bcc6d5d56ebd0e1e8c2a443c29c1162afe00",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "M2. Algebra",
+      "children": [
+        {
+          "type": "file",
+          "name": "01. Set Theory and THe Real Number System.pdf",
+          "path": "M2. Algebra/01. Set Theory and THe Real Number System.pdf",
+          "sha": "9e331ef9b925eb147ffab3e7380fc671413c1ad4",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "02. Theory of Equations.pdf",
+          "path": "M2. Algebra/02. Theory of Equations.pdf",
+          "sha": "44051ba23221479a60e72e9ec5862e20d057fe66",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "03. Complex Numbers.pdf",
+          "path": "M2. Algebra/03. Complex Numbers.pdf",
+          "sha": "84c218d05e3f04c63d761e7064ae63389b207d89",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "04. Principle of Mathematical Induction.pdf",
+          "path": "M2. Algebra/04. Principle of Mathematical Induction.pdf",
+          "sha": "c1eb2c49fe1ef1b2694665781cdb3c7423a6683a",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "05. Progression and Series.pdf",
+          "path": "M2. Algebra/05. Progression and Series.pdf",
+          "sha": "404ea7ed079414dc4c6d752408c03d94969a712a",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "06. Inequalities Involving Means.pdf",
+          "path": "M2. Algebra/06. Inequalities Involving Means.pdf",
+          "sha": "161bee429bb6b06472ab7c52976dde47c8b1eedd",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "07. Permutation and Combination.pdf",
+          "path": "M2. Algebra/07. Permutation and Combination.pdf",
+          "sha": "bc510acb640b6403185a28c044bd00d5fe3b37ca",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "08. Binomial Theorem.pdf",
+          "path": "M2. Algebra/08. Binomial Theorem.pdf",
+          "sha": "7c8e1c59adddf8535118fb4a91c800c6be060477",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "09. Probability I.pdf",
+          "path": "M2. Algebra/09. Probability I.pdf",
+          "sha": "80ccc01f801045eb4c5d33b65d8d165602f79e97",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "10. Mathematical Reasoning.pdf",
+          "path": "M2. Algebra/10. Mathematical Reasoning.pdf",
+          "sha": "4a23ce0e0048e0fa9597a64cd87c45645784a171",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "11. Statistics.pdf",
+          "path": "M2. Algebra/11. Statistics.pdf",
+          "sha": "c513c3629508c5562cbce07da939b886233607a9",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "12. Determinants.pdf",
+          "path": "M2. Algebra/12. Determinants.pdf",
+          "sha": "b0007f637f9ebfaf8880b6c42514c33acd0f2c55",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "13. Matrices.pdf",
+          "path": "M2. Algebra/13. Matrices.pdf",
+          "sha": "0f7b9d737ed20a8b40329b2903aeca057b7dfdb1",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "14. Probability II.pdf",
+          "path": "M2. Algebra/14. Probability II.pdf",
+          "sha": "89f75ad87c7725011fbd2560a0bbbb19ad554aa7",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "M3. Coordinate Goemetry",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. Coordinate System.pdf",
+          "path": "M3. Coordinate Goemetry/1. Coordinate System.pdf",
+          "sha": "2a4ae0224a36975b9757d1d50f4eb4c6ea950bc6",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Straight Lines.pdf",
+          "path": "M3. Coordinate Goemetry/2. Straight Lines.pdf",
+          "sha": "1f2c02375af4248f07b1a02a13c4a81c9e0d8298",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Pair of Straight Lines.pdf",
+          "path": "M3. Coordinate Goemetry/3. Pair of Straight Lines.pdf",
+          "sha": "f83f7dc1f432cdf009c09979d0ab7df0c811bc80",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Circle.pdf",
+          "path": "M3. Coordinate Goemetry/4. Circle.pdf",
+          "sha": "be0cdbb5ff30df2cd95f448c9dc973eac1027129",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. Parabola.pdf",
+          "path": "M3. Coordinate Goemetry/5. Parabola.pdf",
+          "sha": "c899526398d7364664e8a9ece59e3a698ab590c0",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. Ellipse.pdf",
+          "path": "M3. Coordinate Goemetry/6. Ellipse.pdf",
+          "sha": "5563cff91adb7ee4e64cd1542c5c15db29908523",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Hyperbola.pdf",
+          "path": "M3. Coordinate Goemetry/7. Hyperbola.pdf",
+          "sha": "881f4aaeaac04e60dde2f4eb125152a08c89d952",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "M4. Calculus",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. Relations and Functions.pdf",
+          "path": "M4. Calculus/1. Relations and Functions.pdf",
+          "sha": "eb62ddd921871c320612149538d54a983dc41753",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "10. Differential Equations.pdf",
+          "path": "M4. Calculus/10. Differential Equations.pdf",
+          "sha": "78d7879f60ca18cbe2704e0b8f7b30be81a01f33",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Limits.pdf",
+          "path": "M4. Calculus/2. Limits.pdf",
+          "sha": "306dd28235725b9951f1035cc39a87982abddcf2",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Differentiation.pdf",
+          "path": "M4. Calculus/3. Differentiation.pdf",
+          "sha": "c95400c791883922ccb9999727e5fb1d60342f1b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Continuity and Differentiability.pdf",
+          "path": "M4. Calculus/4. Continuity and Differentiability.pdf",
+          "sha": "69117b5bcb6d892ee3441308f36be73f1985a4b1",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. Application of Derivatives.pdf",
+          "path": "M4. Calculus/5. Application of Derivatives.pdf",
+          "sha": "0532c74a61f0ca94fcd87cdf34dc15e06e733510",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. Monotonicity and Maxima-Minima of Functions.pdf",
+          "path": "M4. Calculus/6. Monotonicity and Maxima-Minima of Functions.pdf",
+          "sha": "884a4fa5ba043651c39768ad1c253a8b9bfd76af",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Indefinite Integration.pdf",
+          "path": "M4. Calculus/7. Indefinite Integration.pdf",
+          "sha": "8a2e318214a138023db13d8587edda1bd7f64df1",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "8. Definite Integration.pdf",
+          "path": "M4. Calculus/8. Definite Integration.pdf",
+          "sha": "60e25113ed203d180966c8052ec6f94fefaf8726",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "9. Area.pdf",
+          "path": "M4. Calculus/9. Area.pdf",
+          "sha": "ad0c838028a47f77e41e18bd53ec1ff09be63163",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "M5. 3D Geometry",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. Introduction to 3D Geometry.pdf",
+          "path": "M5. 3D Geometry/1. Introduction to 3D Geometry.pdf",
+          "sha": "70024160803a0a255c29437a46e395d5adb317cf",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Introduction to Vectors.pdf",
+          "path": "M5. 3D Geometry/2. Introduction to Vectors.pdf",
+          "sha": "2f0689edda56dcc61ae6248fdf25a2cc21d1fa56",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Different Products of Vectors.pdf",
+          "path": "M5. 3D Geometry/3. Different Products of Vectors.pdf",
+          "sha": "e117db3507cf7672322721c3aa5b50e749c2b59d",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Line and Plane.pdf",
+          "path": "M5. 3D Geometry/4. Line and Plane.pdf",
+          "sha": "fda8aa2d5cf08342c77e413dc5e1205ff125df4b",
+          "mime": "application/pdf"
+        }
+      ]
+    }
+  ]
+}
