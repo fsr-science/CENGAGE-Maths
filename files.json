@@ -4,25 +4,6 @@
   "children": [
     {
       "type": "folder",
-      "name": ".github",
-      "children": [
-        {
-          "type": "folder",
-          "name": "workflows",
-          "children": [
-            {
-              "type": "file",
-              "name": "fmupdate.yaml",
-              "path": ".github/workflows/fmupdate.yaml",
-              "sha": "e8487ad3894e481645579c350a1ae003fb5e22c7",
-              "mime": "application/yaml"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "folder",
       "name": "CENMT01-TRIG",
       "children": [
         {
@@ -349,7 +330,7 @@
       "type": "file",
       "name": "fmtree.py",
       "path": "fmtree.py",
-      "sha": "4d9c5269d78d298ba59997f5b39467ee3819d438",
+      "sha": "b1fde2f6242258efe42304641d6872f1aab7bf67",
       "mime": "text/x-python"
     }
   ]
