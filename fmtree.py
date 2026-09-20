@@ -27,6 +27,7 @@ SKIP_DIRECTORIES = {
     ".mypy_cache",
     ".ruff_cache",
     "node_modules",
+    ".github",
 }
 SKIP_FILES = {".DS_Store", "files.json"}
 
